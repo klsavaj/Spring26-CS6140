@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/CIM-VnLU)
+
 # CS6140 Problem Set 4: K-Means Algorithm Variants
 
 **Please refer to Canvas for the assignment due date.**
