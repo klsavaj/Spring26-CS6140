@@ -1,0 +1,13 @@
+[project]
+name = "cs6140-ps4-kmeans-variants"
+version = "0.1.0"
+description = "CS6140 Problem Set 4 - K-Means Algorithm Variants"
+requires-python = ">=3.12"
+
+dependencies = [
+    "numpy>=2.0",
+    "matplotlib>=3.8",
+    "scikit-learn>=1.5",
+    "ipykernel>=7.0",
+    "jupyter>=1.0",
+]
